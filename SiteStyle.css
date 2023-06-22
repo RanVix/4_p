@@ -8,3 +8,9 @@ h1 {
     border: 10px solid yellow;
     border-radius: 10px;
 }
+.paragraph2{
+    font-size: 24pt;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 3px -4px 5px green;
+}
